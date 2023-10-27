@@ -1,6 +1,6 @@
 # Cadastro de e-commerce
 
-![foto](img)
+![foto](img/Captura%20de%20tela%202023-10-27%20100822.png)
 
  
 
