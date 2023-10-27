@@ -1,6 +1,6 @@
 # Cadastro de e-commerce
 
-![foto](img)
+![foto](img/Captura de tela 2023-10-27 100822)
 
  
 
@@ -8,7 +8,7 @@
 
 Esse é um site de tela de login baseado em sites de e-commerce.
 
-![git]()
+
 
 ## pesquisa
 
